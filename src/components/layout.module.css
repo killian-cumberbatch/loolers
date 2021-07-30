@@ -1,0 +1,30 @@
+.container{
+    margin: auto;
+    max-width: 500px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading{
+    color: crimson;
+}
+
+.nav-links{
+    display: flex;
+    list-style: none;
+}
+
+.nav-link-item{
+    margin: 0 5px;
+}
+
+.nav-link-text{
+    color: brown;
+    text-decoration: none;
+}
+
+.nav-link-text:hover{
+    font-weight: bold;
+}
+
+
+
